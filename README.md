@@ -4,13 +4,14 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://media.giphy.com/media/juSCTzqDAV1Xq/giphy.gif"  />
+
 
 ###
 
 <p align="left">*💼Atualmente atuando em Desenvolvimento Front-End<br><br>*🤓Estudando React e NodeJs<br><br>*📫vitorgguimaraes56@gmail.com<br><br>*🌐Portfolio : https://portfoliovts.netlify.app/</p>
 
 ###
+<img align="right" height="300" src="https://media.giphy.com/media/juSCTzqDAV1Xq/giphy.gif"  />
 
 <br clear="both">
 
