@@ -1,80 +1,57 @@
-<h1 align="left">Iae ! Me chamo Vitor Gomes 😄🚀!</h1>
+<h1 align="left">Falae 👋!  Me Chamo VItor!</h1>
+
+###
+
+<h2 align="left">Atualmente :</h2>
 
 ###
 
 <br clear="both">
 
-
-
-###
-
-<p align="left">*💼Atualmente atuando em Desenvolvimento Front-End<br><br>*🤓Estudando React e NodeJs<br><br>*📫vitorgguimaraes56@gmail.com<br><br>*🌐Portfolio : https://vitorvts.vercel.app</p>
-
-###
-<br clear="both">
-
-<h2 align="left">Skills Atuais :</h2>
+<img align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTl5bHBwNHAzdXozc2t0M3hrc28xNjFiaG83b3cwczNvcjVibXljaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KszkcokOMwO6s2aJ99/giphy.webp"  />
 
 ###
 
-<br clear="both">
+<p align="left">Estudando C# e AspNet e Trabalhando em meu novo portfolio.<br><br>*🌐Portfolio : https://vitorvts.vercel.app<br><br>*📫vitorgguimaraes56@gmail.com</p>
+
+###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Aprendendo :</h2>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">Contatos :</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/vitor-gomes-986364257/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/ksX8kmB6" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/vitor.vts/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VitorVts&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=VitorVts&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorVts&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h2 align="left">Stat Tracker:</h2>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=vitorvts&locale=pt-br&mode=daily&theme=darcula&hide_border=true&border_radius=10" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorvts&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=true" height="150" alt="languages graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/VitorVts/VitorVts/output/snake.svg" alt="Snake animation" />
 
 ###
