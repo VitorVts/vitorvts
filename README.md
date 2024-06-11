@@ -1,4 +1,4 @@
-<h1 align="left">Falae 👋!  Me Chamo VItor!</h1>
+<h1 align="left">Falae 👋!  Me Chamo Vitor!</h1>
 
 ###
 
@@ -19,11 +19,11 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="15" />
