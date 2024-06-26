@@ -21,9 +21,7 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="php logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="15" />
@@ -31,8 +29,7 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-  <img width="15" />
+  
 </div>
 
 ###
