@@ -43,7 +43,7 @@
 
 | Projeto         | Descrição                                                                 |
 |----------------|---------------------------------------------------------------------------|
-| 🍽️ **Plano Fit**     | Criador de plano alimentar com uso de IA (React Native + Tailwind)         |
+| 🍽️ **Plano Fit**     | Criador de plano alimentar com uso de IA (React + Tailwind)         |
 | ⚙️ **OS Gen 2**       | Gerador de ordem de serviço feito pra agilizar meu dia a dia                |
 | 🔌 **Plano Fit API** | API REST feita em PHP + MySQL com autenticação e lógica alimentar IA       |
 
