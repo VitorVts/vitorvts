@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="100%" alt="dark-coding-banner" />
-</p>
-
 <h1 align="left">Falae 👋! Me chamo Vitor!</h1>
 
 <img align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTl5bHBwNHAzdXozc2t0M3hrc28xNjFiaG83b3cwczNvcjVibXljaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KszkcokOMwO6s2aJ99/giphy.webp" />
