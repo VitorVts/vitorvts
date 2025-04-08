@@ -9,7 +9,6 @@
 🚧 Estudando **PHP** e **React Native**  
 🎨 Trabalhando no meu novo portfólio  
 📫 Contato: **vitorgguimaraes56@gmail.com**  
-🌐 Portfólio: [vitorvts.vercel.app](https://vitorvts.vercel.app)
 
 ---
 
