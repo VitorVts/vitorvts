@@ -6,7 +6,7 @@
 
 ### 🧠 Atualmente
 
-🚧 Estudando **PHP** 
+🚧 Estudando **PHP**  
 🎨 Trabalhando no meu novo portfólio  
 📫 Contato: **vitorgguimaraes56@gmail.com**  
 
