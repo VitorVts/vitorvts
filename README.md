@@ -49,8 +49,8 @@
 
 | Projeto         | Descrição                                                                 |
 |----------------|---------------------------------------------------------------------------|
-| [Kotlin-basics](https://github.com/VitorVts/kotlin-basics)   | Criador de plano alimentar com uso de IA (React + Tailwind)         |
-| [Plano de Estudos]   | Meu Plano de Estudos em php e kotlin             |
+| <img src="https://skillicons.dev/icons?i=kotlin" height="20" alt="kotlin" />[Kotlin-basics](https://github.com/VitorVts/kotlin-basics)   | Criador de plano alimentar com uso de IA (React + Tailwind)         |
+| <img src="https://skillicons.dev/icons?i=php" height="20" alt="php" />[Plano de Estudos](https://github.com/VitorVts/Plano-Estudos-PHP-Kotlin)   | Meu Plano de Estudos em php e kotlin             |
 
 ---
 
