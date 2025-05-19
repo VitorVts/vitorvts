@@ -40,8 +40,8 @@
 
 | Projeto         | Descrição                                                                 |
 |----------------|---------------------------------------------------------------------------|
-| <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin" />[Kotlin-basics](https://github.com/VitorVts/kotlin-basics)   |Exercicios para aprendizado de kotlin e exercicío de lógica de acordo com o planoe de estudos|
-| <img src="https://skillicons.dev/icons?i=php" height="30" alt="php" />[Plano de Estudos](https://github.com/VitorVts/Plano-Estudos-PHP-Kotlin)   | Meu Plano de Estudos em php e kotlin|
+| <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin" />[Kotlin-basics](https://github.com/VitorVts/kotlin-basics)       |Exercicios para aprendizado de kotlin e exercicío de lógica de acordo com o planoe de estudos|
+| <img src="https://skillicons.dev/icons?i=php" height="30" alt="php" />[Plano de Estudos](https://github.com/VitorVts/Plano-Estudos-PHP-Kotlin)       | Meu Plano de Estudos em php e kotlin|
 
 ---
 
