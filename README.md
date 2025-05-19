@@ -49,9 +49,8 @@
 
 | Projeto         | Descrição                                                                 |
 |----------------|---------------------------------------------------------------------------|
-| 🍽️ **Kotlin-basics**(https://github.com/VitorVts/kotlin-basics)     | Criador de plano alimentar com uso de IA (React + Tailwind)         |
-| ⚙️ **OS Gen 2**       | Gerador de ordem de serviço feito pra agilizar meu dia a dia                |
-| 🔌 **Plano Fit API** | API REST feita em PHP + MySQL com autenticação e lógica alimentar IA       |
+| [Kotlin-basics](https://github.com/VitorVts/kotlin-basics)   | Criador de plano alimentar com uso de IA (React + Tailwind)         |
+| [Plano de Estudos]   | Meu Plano de Estudos em php e kotlin             |
 
 ---
 
