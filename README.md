@@ -26,6 +26,8 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="kotlin" />
 </div>
 
 ---
