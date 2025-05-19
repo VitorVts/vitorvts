@@ -28,6 +28,8 @@
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel" />
 </div>
 
 ---
