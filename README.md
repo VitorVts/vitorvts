@@ -17,6 +17,10 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php" />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react native" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind" />
@@ -26,10 +30,8 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel" />
+  
+  
 </div>
 
 ---
